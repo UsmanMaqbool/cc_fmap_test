@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structInputPointDense.html" title="{InputPointDense\n|+ idepth\l+ idepth_var\l+ color\l|}" alt="" coords="5,75,123,195"/>
+<area shape="rect" id="node4" href="$structkeyFrame.html" title="{keyFrame\n|+ img\l+ bowDescriptor\l+ idepth\l+ idepthVar\l+ rID\l+ fID\l+ lsdSLAMID\l+ width\l+ height\l+ camModel\land 5 more...|}" alt="" coords="147,5,264,264"/>
+</map>
